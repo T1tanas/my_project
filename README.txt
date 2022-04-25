@@ -1,4 +1,4 @@
- This application is used to scrape todays name days from 'www.days.lt' 
+ This application is used to scrape todays name days from 'www.day.lt' 
 That scrapped data (names) can be added to your WP page.
 
 ***** INSTRUCTIONS*****
@@ -10,4 +10,4 @@ That scrapped data (names) can be added to your WP page.
 **** Thats it***
 
 
-Titas Dragūnas 2020**
+Titas Dragūnas 2022**
